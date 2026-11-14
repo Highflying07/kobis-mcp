@@ -55,3 +55,7 @@ claude mcp add kobis -- "<이 폴더 경로>\.venv\Scripts\python.exe" "<이 폴
 - HTTPS 인증서는 OS 인증서 저장소(`truststore`)로 검증합니다. 사내 프록시 환경에서도 검증을 끄지 않고 동작합니다.
 - httpx 요청 로그는 API 키가 노출되지 않도록 꺼 두었습니다.
 - 국적 코드는 대륙 아래에 있습니다: `code_list("220310")` → 아시아 국가 (한국 `22041011`).
+
+## 라이선스
+
+[MIT](LICENSE)
